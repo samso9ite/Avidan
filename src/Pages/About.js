@@ -268,10 +268,10 @@ const AboutPage = () => {
                     <div className="video-one__video-link">
                         <a href="#" className="video-popup">
                             <div className="video-one__video-icon">
-                            <img src='assets/images/avidan/favAvidan.png' />
+                            <img src='assets/images/avidan/favAvidan.png' />    
                             </div>
                         </a>
-                    </div>
+                    </div>  
                     <div className="video-one__title-box">
                         <h3>Share requirements and our <br /> charter experts will send you a quote</h3>
                     </div>

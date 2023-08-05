@@ -180,7 +180,7 @@ const HomePage = () => {
                             </div> 
                             <div className="accrodion-grp" data-grp-name="faq-one-accrodion">
                             <Accordion>
-                                <AccordionItem header="Cockpit Cleaning" expanded>
+                                <AccordionItem header="Cockpit Cleaning" initialEntered>
                                     <div className="accrodion-content">
                                         <div className="inner">
                                             <ul>
