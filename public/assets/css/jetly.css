@@ -186,6 +186,8 @@ ul {
   z-index: -1;
 }
 
+
+
 /*--------------------------------------------------------------
 # Custom Cursor
 --------------------------------------------------------------*/
@@ -391,7 +393,7 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/loader.png);
+  background-image: url(../images/avidan/aviLogo.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px auto;
@@ -4932,7 +4934,7 @@ ul {
   left: 250px;
   height: 107px;
   width: 107px;
-  background-color: var(--jetly-base);
+  background-color: #fff;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -5711,8 +5713,27 @@ ul {
 .faq-one__right {
   position: relative;
   display: block;
-}
+} 
 
+.szh-accordion__item-heading{
+  color: var(--jetly-base);
+}
+.szh-accordion__item{
+  background-color: var(--jetly-white);
+  padding: 22px 40px 22px;
+}
+.szh-accordion__item-btn{
+  margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 26px;
+    color: var(--jetly-black);
+    position: relative;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+background:none;
+border: none;
+}
 .faq-one-accrodion .accrodion {
   position: relative;
   display: block;

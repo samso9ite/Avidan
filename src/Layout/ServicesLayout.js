@@ -10,22 +10,22 @@ const ServicesLayout = (props) => {
                         <div className="service-details__left">
                             <div className="service-details__category">
                                 <ul className="service-details__category-list list-unstyled">
-                                    <li className="active"  ><a href="maintainance.html">Aviation
+                                    <li className="active"  ><a href="aviation">Aviation
                                         </a>
                                     </li>
 
-                                    <li><a href="leasing.html">Hydro-Meteorology Station<span
+                                    <li><a href="#">Hydro-Meteorology Station<span
                                                 className="fas fa-angle-right"></span></a></li>
-                                    <li><a href="leasing.html">Aircraft Leasing<span
-                                                className="fas fa-angle-right"></span></a></li>
-
-                                    <li><a href="charters.html">Charters<span
+                                    <li><a href="leasing">Aircraft Leasing<span
                                                 className="fas fa-angle-right"></span></a></li>
 
-                                    <li><a href="interior.html">Interior Services<span
+                                    <li><a href="charters">Charters<span
                                                 className="fas fa-angle-right"></span></a></li>
 
-                                    <li><a href="concierge.html">Concierge Services<span
+                                    <li><a href="interior">Interior Services<span
+                                                className="fas fa-angle-right"></span></a></li>
+
+                                    <li><a href="concierge">Concierge Services<span
                                                 className="fas fa-angle-right"></span></a></li>
 
                                 </ul>

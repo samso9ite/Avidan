@@ -268,8 +268,7 @@ const AboutPage = () => {
                     <div className="video-one__video-link">
                         <a href="#" className="video-popup">
                             <div className="video-one__video-icon">
-                                <span className="fa fa-play"></span>
-                                <i className="ripple"></i>
+                            <img src='assets/images/avidan/favAvidan.png' />
                             </div>
                         </a>
                     </div>
@@ -283,7 +282,7 @@ const AboutPage = () => {
                         <div className="video-one__btn-two">
                             <a href="about.html" className="thm-btn">Read More</a>
                         </div>
-                    </div>
+                    </div>      
                 </div>
             </div>
         </section>

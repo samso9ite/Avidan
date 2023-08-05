@@ -12,7 +12,7 @@ const Services = () => {
                 <div className="page-header__inner">
                     <h2>Our services</h2>
                     <ul className="thm-breadcrumb list-unstyled">
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li><span>/</span></li>
                         <li>Services</li>
                     </ul>
@@ -51,13 +51,13 @@ const Services = () => {
                             </div>
                             <div className="services-one__content">
                                 <div className="services-one__title-box">
-                                    <h3 className="services-one__title"><a href="maintainance.html">Aviation</a>
+                                    <h3 className="services-one__title"><a href="aviation">Aviation</a>
                                     </h3>
                                 </div>
                                 <p className="services-one__text">We supply simple to complex spare parts for aviation, we also manage & maintain flights</p>
-                                <a href="maintainance.html">   <span className="services-one__sub-title mt-3">View more</span></a>
+                                <a href="aviation">   <span className="services-one__sub-title mt-3">View more</span></a>
                                 <div className="services-one__arrow">
-                                    <a href="maintainance.html"><i className="fas fa-angle-right"></i></a>
+                                    <a href="aviation"><i className="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -69,12 +69,12 @@ const Services = () => {
                             </div>
                             <div className="services-one__content">
                                 <div className="services-one__title-box">
-                                    <h3 className="services-one__title"><a href="leasing.html">Aircraft Leasing</a></h3>
+                                    <h3 className="services-one__title"><a href="leasing">Aircraft Leasing</a></h3>
                                 </div>
                                 <p className="services-one__text">As a broker, Avidan Support can provide aircraft anywhere in the world that meet requirement      </p>
-                                <a href="leasing.html">   <span className="services-one__sub-title mt-3">View more</span></a>
+                                <a href="leasing">   <span className="services-one__sub-title mt-3">View more</span></a>
                                 <div className="services-one__arrow">
-                                    <a href="leasing.html"><i className="fas fa-angle-right"></i></a>
+                                    <a href="leasing"><i className="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -86,13 +86,13 @@ const Services = () => {
                             </div>
                             <div className="services-one__content">
                                 <div className="services-one__title-box">
-                                    <h3 className="services-one__title"><a href="charters.html">Charters</a></h3>
+                                    <h3 className="services-one__title"><a href="charters">Charters</a></h3>
                                 </div>
                                 <p className="services-one__text">We arrange on-demand private jet charter worldwide through a
                                     preferred network of operators.</p>
-                                    <a href="charters.html">   <span className="services-one__sub-title mt-3">View more</span></a>
+                                    <a href="charters">   <span className="services-one__sub-title mt-3">View more</span></a>
                                 <div className="services-one__arrow">
-                                    <a href="charters.html"><i className="fas fa-angle-right"></i></a>
+                                    <a href="charters"><i className="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -104,12 +104,12 @@ const Services = () => {
                             </div>
                             <div className="services-one__content">
                                 <div className="services-one__title-box">
-                                    <h3 className="services-one__title"><a href="interiors.html">Interior Services</a></h3>
+                                    <h3 className="services-one__title"><a href="interiors">Interior Services</a></h3>
                                 </div>
                                 <p className="services-one__text">We at Avidan also specialize in full interior cleaning of aircrafts.</p>
-                                <a href="interiors.html">   <span className="services-one__sub-title mt-3">View more</span></a>
+                                <a href="interiors">   <span className="services-one__sub-title mt-3">View more</span></a>
                                 <div className="services-one__arrow">
-                                    <a href="interiors.html"><i className="fas fa-angle-right"></i></a>
+                                    <a href="interiors"><i className="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -121,12 +121,12 @@ const Services = () => {
                             </div>
                             <div className="services-one__content">
                                 <div className="services-one__title-box">
-                                    <h3 className="services-one__title"><a href="concierge.html">Concierge Services</a></h3>
+                                    <h3 className="services-one__title"><a href="concierge">Concierge Services</a></h3>
                                 </div>
                                 <p className="services-one__text">With superior hospitality and service, we make your stay more enjoyable.</p>
-                                <a href="concierge.html">   <span className="services-one__sub-title mt-3">View more</span></a>
+                                <a href="concierge">   <span className="services-one__sub-title mt-3">View more</span></a>
                                 <div className="services-one__arrow">
-                                    <a href="concierge.html"><i className="fas fa-angle-right"></i></a>
+                                    <a href="concierge"><i className="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>

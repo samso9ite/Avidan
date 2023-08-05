@@ -6,17 +6,17 @@ const Concierge = () => {
         <>
         <Header />
         <section className="page-header">
-            <div className="page-header-bg" style={{backgroundImage: 'url("assets/images/backgrounds/page-header-bg.jpg")'}}>
+        <div className="page-header-bg" style={{backgroundImage:'url("assets/images/avidan/slider1.jpeg")'}}>
             </div>
             <div className="container">
                 <div className="page-header__inner">
-                    <h2>Aviation</h2>
+                    <h2>Concierge Services</h2>
                     <ul className="thm-breadcrumb list-unstyled">
                         <li><a href="index-2.html">Home</a></li>
                         <li><span>/</span></li>
                         <li><a href="services.html">Services</a></li>
                         <li><span>/</span></li>
-                        <li>Aviation</li>
+                        <li>Concierge Services</li>
                     </ul>
                 </div>
             </div>

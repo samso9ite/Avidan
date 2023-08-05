@@ -12,7 +12,7 @@ const Footer = () => {
                             <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                                 <div className="footer-widget__column footer-widget__about">
                                     <div className="footer-widget__logo">
-                                        <a href="#"><img src="assets/images/resources/footer-logo.png" alt="" /></a>
+                                        <a href="#"><img src="assets/images/avidan/favAvidan.png" alt="" /></a>
                                     </div>
                                     <div className="footer-widget__about-text-box">
                                         <p className="footer-widget" style={{color: '#fff'}}>We take great pride
@@ -27,12 +27,12 @@ const Footer = () => {
                                         <h3 className="footer-widget__title">Services</h3>
                                     </div>
                                     <ul className="footer-widget__Explore-list list-unstyled">
-                                        <li><a href="maintainance.html">Aviation</a></li>
+                                        <li><a href="aviation">Aviation</a></li>
                                         <li><a href="#">Hydro-Meteorology</a></li>
-                                        <li><a href="leasing.html">Airflight Leasing</a></li>
-                                        <li><a href="charters.html">Charter</a></li>
-                                        <li><a href="interior.html">Interior Services</a></li>
-                                        <li><a href="concierge.html">Concierge Services</a></li>
+                                        <li><a href="leasing">Airflight Leasing</a></li>
+                                        <li><a href="charters">Charter</a></li>
+                                        <li><a href="interior">Interior Services</a></li>
+                                        <li><a href="concierge">Concierge Services</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -42,10 +42,10 @@ const Footer = () => {
                                         <h3 className="footer-widget__title">Links</h3>
                                     </div>
                                     <ul className="footer-widget__Explore-list list-unstyled">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="about">About</a></li>
+                                        <li><a href="services">Services</a></li>
+                                        <li><a href="contact">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -115,7 +115,7 @@ const Footer = () => {
 
             <div className="logo-box">
                 <a href="index-2.html" aria-label="logo image">
-                    <img src="assets/images/resources/logo-1.png" width="143"
+                    <img src="assets/images/avidan/favLogo.png" width="143"
                         alt="" /></a>
             </div>
             <div className="mobile-nav__container"></div>

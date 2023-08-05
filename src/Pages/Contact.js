@@ -1,3 +1,4 @@
+import Footer from "../components/Footer";
 import Header from "../components/Header";
 
 const Contact = () => {
@@ -116,9 +117,10 @@ const Contact = () => {
                 </div>
             </div>
         </section>
-     <section className="google-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d63424.98051780159!2d3.3180680506229216!3d6.513927876063138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sDomestic%20Wing%2C%20Murtala%20Muhammed%20Airport%20Ikeja%2C%20Lagos%20.Nigeria!5e0!3m2!1sen!2sng!4v1691089017319!5m2!1sen!2sng" width="600" height="450" style={{border:0, allowfullscreen:"" ,   className:"google-map__one"}}></iframe>
-        </section>
+     {/* <section className="google-map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d63424.98051780159!2d3.3180680506229216!3d6.513927876063138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sDomestic%20Wing%2C%20Murtala%20Muhammed%20Airport%20Ikeja%2C%20Lagos%20.Nigeria!5e0!3m2!1sen!2sng!4v1691089017319!5m2!1sen!2sng" width="600" height="450" style={{border:0, allowfullscreen:"" ,   className:"google-map__one"}} allowFullScreen></iframe>
+        </section> */}
+        <Footer/>
         </>
      );
 }

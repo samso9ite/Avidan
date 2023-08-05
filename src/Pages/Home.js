@@ -1,6 +1,7 @@
 import Header from '../components/Header'
 import Footer from '../components/Footer';
 import Slider from '../components/Slider';
+import { Accordion, AccordionItem } from '@szhsin/react-accordion';
 
 const HomePage = () => {
     return ( 
@@ -26,7 +27,7 @@ const HomePage = () => {
                                     <img src="assets/images/avidan/home_img.png" alt="" />
                                 </div>
                                 <div className="about-two__icon">
-                                    <img src="assets/images/icon/about-two-icon-1.png" alt="" />
+                                    <img src="assets/images/avidan/favAvidan.png" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -140,7 +141,7 @@ const HomePage = () => {
                     <div className="video-one__video-link">
                         <a href="#" className="video-popup">
                             <div className="video-one__video-icon">
-                              
+                              <img src='assets/images/avidan/favAvidan.png' />
                             </div>
                         </a>
                     </div>
@@ -178,10 +179,8 @@ const HomePage = () => {
                                 <h2 className="section-title__title">Full Interior Detail Cleaning </h2>
                             </div> 
                             <div className="accrodion-grp" data-grp-name="faq-one-accrodion">
-                                <div className="accrodion">
-                                    <div className="accrodion-title">
-                                        <h4>Cockpit Cleaning</h4>
-                                    </div>
+                            <Accordion>
+                                <AccordionItem header="Cockpit Cleaning" expanded>
                                     <div className="accrodion-content">
                                         <div className="inner">
                                             <ul>
@@ -194,13 +193,9 @@ const HomePage = () => {
                                             </ul>
                                         </div>
                                     </div>
-                                </div>
-                                <div className="accrodion active">
-                                    <div className="accrodion-title">
-                                        <h4>Gallery Cleaning</h4>
-                                    </div>
-                                    <div className="accrodion-content">
-                                        <div className="inner">
+                                </AccordionItem>
+                                <AccordionItem header="Gallery Cleaning" style={{marginTop:14+'px'}}>
+                                <div className="inner">
                                        <ul>
                                         <li>Clean & Disinfect Trash Bins</li>
                                         <li>Clean Coffee Areas</li>
@@ -208,16 +203,11 @@ const HomePage = () => {
                                             Metal/Plastic/Wood/Formica</li>
                                         <li>Spot Clean Stains & Vacuum Rug</li>
                                        </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="accrodion last-chiled">
-                                    <div className="accrodion-title">
-                                        <h4>Lavatory Cleaning</h4>
-                                    </div>
-                                    <div className="accrodion-content">
-                                        <div className="inner">
-                                           <ul>
+                                    </div>  
+                                </AccordionItem>
+                                <AccordionItem header="Lavatory Cleaning" style={{marginTop:14+'px'}}>
+                                <div className="inner">
+                                    <ul>
                                             <li>Clean & Polish all
                                                 Metal/Plastic/Wood/Formica
                                             </li>
@@ -225,9 +215,12 @@ const HomePage = () => {
                                             <li>Empty & Clean Trash Dispenser</li>
                                             <li>Sanitize all Oxygen Masks</li>
                                            </ul>
-                                        </div>
                                     </div>
-                                </div>
+
+                                </AccordionItem>
+                                
+                               
+                            </Accordion>
                             </div>
                             <div className="video-one__btn-one mt-4">
                                 <a href="contact.html" className="thm-btn">Contact Us</a>

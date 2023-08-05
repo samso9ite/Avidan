@@ -18,7 +18,7 @@ const Header = () => {
                                             </p>
                                         </div>
                                     </li>
-                                    <li>
+                                    <li>    
                                         <div className="icon">
                                             <i className="fas fa-envelope"></i>
                                         </div>
@@ -45,33 +45,33 @@ const Header = () => {
                                 <div className="main-menu-two__wrapper-inner-border"></div>
                                 <div className="main-menu-two__left">
                                     <div className="main-menu-two__logo">
-                                        <a href="index-2.html"><img src="assets/images/resources/logo-1.png" alt="" /></a>
+                                        <a href="/"><img src="assets/images/avidan/favAvidan.png" alt="" /></a>
                                     </div>
                                 </div>
                                 <div className="main-menu-two__right">
                                     <div className="main-menu-two__main-menu-box">
                                         <a href="#" className="mobile-nav__toggler"><i className="fa fa-bars"></i></a>
                                         <ul className="main-menu__list one-page-scroll-menu">
-                                            <li className="dropdown current">
-                                                <a href="#home">Home </a>
+                                            <li  className={({isActive}) => isActive ?  'current' : ""} >
+                                                <a href="/">Home </a>
                                               
                                             </li>
-                                            <li className="scrollToLink">
-                                                <a href="about.html">About</a>
+                                            <li className={({isActive}) => isActive ?  "current" : ""}>
+                                                <a href="about">About</a>
                                             </li>
-                                            <li className="dropdown">
-                                                <a href="services.html">Services</a>
+                                            <li className={({isActive}) => isActive ?  "current" : ""}>
+                                                <a href="services">Services</a>
                                                 <ul className="shadow-box">
-                                                    <li><a href="maintainance.html">Aviation Services</a></li>
-                                                    <li><a href="leasing.html">Aircraft Leasing</a></li>
-                                                    <li><a href="charters.html">Charters</a></li>
-                                                    <li><a href="interior.html">Interior Services</a></li>
-                                                    <li><a href="concierge.html">Concierge Services </a></li>
+                                                    <li><a href="aviation">Aviation Services</a></li>
+                                                    <li><a href="leasing">Aircraft Leasing</a></li>
+                                                    <li><a href="charters">Charters</a></li>
+                                                    <li><a href="interior">Interior Services</a></li>
+                                                    <li><a href="concierge">Concierge Services </a></li>
                                                 </ul>
                                             </li>
                                            
-                                            <li className="scrollToLink">
-                                                <a href="contact.html">Contact Us</a>
+                                            <li className={({isActive}) => isActive ?  "current" : ""}>
+                                                <a href="contact">Contact Us</a>
                                             </li>
                                         </ul>
                                     </div>

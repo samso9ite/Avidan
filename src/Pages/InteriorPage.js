@@ -6,7 +6,7 @@ const Interior = () => {
         <>
         <Header />
         <section className="page-header">
-            <div className="page-header-bg" style={{backgroundImage: 'url("assets/images/backgrounds/page-header-bg.jpg")'}}>
+        <div className="page-header-bg" style={{backgroundImage:'url("assets/images/avidan/slider1.jpeg")'}}>
             </div>
             <div className="container">
                 <div className="page-header__inner">

@@ -9,6 +9,8 @@ import Interior from './Pages/InteriorPage';
 import LeasingPage from './Pages/LeasingPage';
 import Services from './Pages/Services';
 
+
+
 const router = createBrowserRouter(
   [
     {
@@ -44,7 +46,7 @@ const router = createBrowserRouter(
       element:<LeasingPage />,
     },
     {
-      path: 'charter',
+      path: 'charters',
       element:<CharterPage/>,
     },
   ]
