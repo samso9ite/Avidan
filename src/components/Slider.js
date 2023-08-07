@@ -25,7 +25,7 @@ const Slider = () => {
                             <div className="row">
                                 <div className="col-xl-8">
                                     <div className="main-slider-two__content">
-                                        <h2 className="main-slider-two__title" style={{fontSize:68+'px'}}>Day-To-Day Aviation <br /> Equipments Supplies</h2>
+                                        <h2 className="main-slider-two__title" style={{}}>Day-To-Day Aviation <br /> Equipments Supplies</h2>
                                         <div className="main-slider-two__btn-box">
                                             <a href="contact.html" className="thm-btn main-slider__btn">Contact Us</a>        
                                             <a href="about.html" className="thm-btn main-slider__btn-two">Read More</a>
@@ -46,7 +46,7 @@ const Slider = () => {
                             <div className="row">
                                 <div className="col-xl-8">
                                     <div className="main-slider-two__content">
-                                        <h2 className="main-slider-two__title" style={{fontSize: 68+'px'}}>Need to  procure<br /> maritime simulators?</h2>
+                                        <h2 className="main-slider-two__title" style={{}}>Need to  procure<br /> maritime simulators?</h2>
                                         <div className="main-slider-two__btn-box">
                                             <a href="contact.html" className="thm-btn main-slider__btn">Contact Us</a>
                                             <a href="about.html" className="thm-btn main-slider__btn-two">Read More</a>
@@ -67,7 +67,7 @@ const Slider = () => {
                             <div className="row">
                                 <div className="col-xl-8">
                                     <div className="main-slider-two__content">
-                                        <h2 className="main-slider-two__title" style={{fontSize: 68+'px'}}>A Better Way <br /> to Procure Flight</h2>
+                                        <h2 className="main-slider-two__title" style={{}}>A Better Way <br /> to Procure Flight</h2>
                                         <div className="main-slider-two__btn-box">
                                             <a href="contact.html" className="thm-btn main-slider__btn">Contact Us</a>
                                             <a href="about.html" className="thm-btn main-slider__btn-two">Read More</a>
