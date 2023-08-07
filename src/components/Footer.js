@@ -27,12 +27,12 @@ const Footer = () => {
                                         <h3 className="footer-widget__title">Services</h3>
                                     </div>
                                     <ul className="footer-widget__Explore-list list-unstyled">
-                                        <li><a href="aviation">Aviation</a></li>
-                                        <li><a href="#">Hydro-Meteorology</a></li>
-                                        <li><a href="leasing">Airflight Leasing</a></li>
-                                        <li><a href="charters">Charter</a></li>
-                                        <li><a href="interior">Interior Services</a></li>
-                                        <li><a href="concierge">Concierge Services</a></li>
+                                    <li><a href="aviation">Aviation Services</a></li>
+                                    <li><a href="leasing">Aircraft Leasing</a></li>
+                                    <li><a href="charters">Charters</a></li>
+                                    <li><a href="hydrology">Hydrology/Meteorology</a></li>
+                                    <li><a href="supply">Supply of aviation and maritime equipment</a></li>
+                                    <li><a href="concierge">Concierge Services </a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -60,8 +60,8 @@ const Footer = () => {
                                                 <span className="fas fa-phone"></span>
                                             </div>
                                             <div className="text">
-                                                <p><a href="tel:+9288006780">+234 802 3060 791</a></p>
-                                                <p><a href="tel:+9288006780">+447984340511</a></p>              
+                                                <p><a href="tel:v">+2348023060791</a></p>
+                                                <p><a href="tel:+447424179683">+44 7424 179683</a></p>              
 
                                             </div>
                                         </li>
@@ -71,6 +71,7 @@ const Footer = () => {
                                             </div>
                                             <div className="text">
                                                 <p><a href="mailto:needhelp@company.com">info@avidansupport.com</a></p>
+                                                <p><a href="mailto:avidansupportltd@gmail.com">avidansupportltd@gmail.com </a></p>
                                             </div>
                                         </li>
                                         <li>
@@ -79,9 +80,7 @@ const Footer = () => {
                                             </div>
                                             <div className="text">
                                                 <p>
-                                                    Domestic Wing,
-                                                    Muritala Muhammed Airport
-                                                    Ikeja, Lagos .Nigeria
+                                                    20 Ganges Street, Ministers Hill, Maitama, Abuja FCT
                                                 </p>
                                             </div>
                                         </li>
@@ -93,7 +92,7 @@ const Footer = () => {
                     <div className="site-footer__bottom">
                         <div className="site-footer__bottom-inner">
                             <div className="site-footer__bottom-left">
-                                <p className="site-footer__bottom-text">© Copyright 2023 by <a href="#">avidansupport.com</a></p>
+                                <p className="site-footer__bottom-text">© Copyright 2023 by <a href="/">avidansupport.com</a></p>
                             </div>
                             <div className="site-footer__bottom-right">
                                 <div className="site-footer__social">

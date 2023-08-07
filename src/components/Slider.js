@@ -67,7 +67,7 @@ const Slider = () => {
                             <div className="row">
                                 <div className="col-xl-8">
                                     <div className="main-slider-two__content">
-                                        <h2 className="main-slider-two__title" style={{}}>A Better Way <br /> to Procure Flight</h2>
+                                        <h2 className="main-slider-two__title" style={{     }}>A Better Way <br /> to Procure Flight</h2>
                                         <div className="main-slider-two__btn-box">
                                             <a href="contact.html" className="thm-btn main-slider__btn">Contact Us</a>
                                             <a href="about.html" className="thm-btn main-slider__btn-two">Read More</a>

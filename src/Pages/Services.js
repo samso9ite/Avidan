@@ -100,16 +100,16 @@ const Services = () => {
                     <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
                         <div className="services-one__single">
                             <div className="services-one__img">
-                                <img src="assets/images/avidan/jetInterior.webp" alt="" />
+                                <img src="assets/images/avidan/wrk3.jpeg" alt="" />
                             </div>
                             <div className="services-one__content">
                                 <div className="services-one__title-box">
-                                    <h3 className="services-one__title"><a href="interiors">Interior Services</a></h3>
+                                    <h3 className="services-one__title"><a href="supply">Supply of aviation and maritime equipment</a></h3>
                                 </div>
-                                <p className="services-one__text">We at Avidan also specialize in full interior cleaning of aircrafts.</p>
-                                <a href="interiors">   <span className="services-one__sub-title mt-3">View more</span></a>
+                                <p className="services-one__text">We are sales representative and maintenance partner of OEM for flight & Maritime simulations </p>
+                                <a href="supply">   <span className="services-one__sub-title mt-3">View more</span></a>
                                 <div className="services-one__arrow">
-                                    <a href="interiors"><i className="fas fa-angle-right"></i></a>
+                                    <a href="supply"><i className="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>

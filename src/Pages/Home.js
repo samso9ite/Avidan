@@ -26,9 +26,7 @@ const HomePage = () => {
                                 <div className="about-two__img-two">
                                     <img src="assets/images/avidan/home_img.png" alt="" />
                                 </div>
-                                <div className="about-two__icon">
-                                    <img src="assets/images/avidan/favAvidan.png" alt="" />
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -66,7 +64,7 @@ const HomePage = () => {
                                     </div>
                                 </li>
                             </ul>
-                            <a href="about.html" className="thm-btn about-two__btn">Dicover more</a>
+                            <a href="about" className="thm-btn about-two__btn">Dicover more</a>
                         </div>
                     </div>
                 </div>
@@ -88,7 +86,7 @@ const HomePage = () => {
                                 <div className="feature-three__icon">
                                     <span className="icon-safe-flight"></span>
                                 </div>
-                                <h4 className="feature-three__title"><a href="about.html">Aviation <br /> Services</a></h4>
+                                <h4 className="feature-three__title"><a href="about">Aviation <br /> Services</a></h4>
                                 <p className="feature-three__text">We are sales representative & maintenance partner of OEM for flight
                                     simulators in USA, Canada and Europe.</p>
                             </div>
@@ -98,7 +96,7 @@ const HomePage = () => {
                                 <div className="feature-three__icon">
                                     <span className="icon-recommend"></span>
                                 </div>
-                                <h4 className="feature-three__title"><a href="about.html">Hydro Meteorology
+                                <h4 className="feature-three__title"><a href="about">Hydro Meteorology
                                         <br /> Station</a></h4>
                                 <p className="feature-three__text">We build Hydro-Meteorological Station used to monitor hydrological parameters of 
                                    water reservoirs. </p>
@@ -109,7 +107,7 @@ const HomePage = () => {
                                 <div className="feature-three__icon">
                                     <span className="icon-online-booking"></span>
                                 </div>
-                                <h4 className="feature-three__title"><a href="about.html">Aircraft <br />
+                                <h4 className="feature-three__title"><a href="about">Aircraft <br />
                                         Leasing</a></h4>
                                 <p className="feature-three__text"> Avidan Support ACMI/ Leasing team has considerable
                                     aircraft leasing management experience. We give our clients the best.</p>
@@ -120,7 +118,7 @@ const HomePage = () => {
                                 <div className="feature-three__icon">
                                     <span className="icon-airport-1"></span>
                                 </div>
-                                <h4 className="feature-three__title"><a href="about.html">Charters
+                                <h4 className="feature-three__title"><a href="about">Charters
                                         <br /> Services</a></h4>
                                 <p className="feature-three__text">We arrange on-demand private jet charter  through a
                                     preferred network of operators, giving  the freedom to select the 
@@ -150,10 +148,10 @@ const HomePage = () => {
                     </div>
                     <div className="video-one__button">
                         <div className="video-one__btn-one">
-                            <a href="contact.html" className="thm-btn">Contact Us</a>
+                            <a href="contact" className="thm-btn">Contact Us</a>
                         </div>
                         <div className="video-one__btn-two">
-                            <a href="about.html" className="thm-btn">Read More</a>
+                            <a href="about" className="thm-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -168,62 +166,52 @@ const HomePage = () => {
                     <div className="col-xl-6 col-lg-6">
                         <div className="faq-one__left">
                             <div className="faq-one__img wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <img src="assets/images/avidan/interior.jpeg" alt="" />
+                                <img src="assets/images/avidan/maintenanceSupply.jpeg" alt="" />
                             </div>
                         </div>
                     </div>
                     <div className="col-xl-6 col-lg-6">
                         <div className="faq-one__right">
                             <div className="section-title text-left">
-                                <span className="section-title__tagline">We Offer Interior Services</span>
-                                <h2 className="section-title__title">Full Interior Detail Cleaning </h2>
+                                <span className="section-title__tagline">Supply & Maintenance</span>
+                                <h2 className="section-title__title">Supply of aviation and maritime equipment</h2>
+                                <p>Avidan is a sales representative and maintenance partner of OEM for flight &amp; 
+                                                Maritime simulations in the Europe, Canada and United States.</p>
                             </div> 
                             <div className="accrodion-grp" data-grp-name="faq-one-accrodion">
                             <Accordion>
-                                <AccordionItem header="Cockpit Cleaning" initialEntered>
+                                <AccordionItem header="Knowledgeable Sales Team" initialEntered>
                                     <div className="accrodion-content">
                                         <div className="inner">
-                                            <ul>
-                                                <li>Clean all Instrument Panels and
-                                                    Screens
-                                                </li>
-                                                <li>Clean all Windows and Sun Visors</li>
-                                                <li>Vacuum all Seats and Floors</li>
-                                                <li>Sanitize all Oxygen Masks</li>
-                                            </ul>
+                                        <p>
+                                            Our staff has over 5 combined years of
+                                                experience selling aircraft parts. Any question or concernyou might have can be
+                                                easily managed by our friendly and knowledgeable team.
+                                            </p>
                                         </div>
                                     </div>
                                 </AccordionItem>
-                                <AccordionItem header="Gallery Cleaning" style={{marginTop:14+'px'}}>
+                                <AccordionItem header="Immediate Processing" style={{marginTop:14+'px'}}>
                                 <div className="inner">
-                                       <ul>
-                                        <li>Clean & Disinfect Trash Bins</li>
-                                        <li>Clean Coffee Areas</li>
-                                        <li>Wipe & Polish
-                                            Metal/Plastic/Wood/Formica</li>
-                                        <li>Spot Clean Stains & Vacuum Rug</li>
-                                       </ul>
+                                      <p>As soon as your order is placed, we immediately
+                                                    process all items and prepare your order for shipping. If there are any issues, we
+                                                    will contact you right away to find a solution that meets your expectations.</p>
                                     </div>  
                                 </AccordionItem>
-                                <AccordionItem header="Lavatory Cleaning" style={{marginTop:14+'px'}}>
+                                <AccordionItem header="Follow-up & Support" style={{marginTop:14+'px'}}>
                                 <div className="inner">
-                                    <ul>
-                                            <li>Clean & Polish all
-                                                Metal/Plastic/Wood/Formica
-                                            </li>
-                                            <li>Clean Windows and Mirrors</li>
-                                            <li>Empty & Clean Trash Dispenser</li>
-                                            <li>Sanitize all Oxygen Masks</li>
-                                           </ul>
-                                    </div>
-
+                                   <p>Once you’ve received your part, we will be there to
+                                        provideany support or help you might need. We’ll do whatever is necessary to
+                                        help you find success.
+                                    </p>
+                                </div>
                                 </AccordionItem>
                                 
                                
                             </Accordion>
                             </div>
                             <div className="video-one__btn-one mt-4">
-                                <a href="contact.html" className="thm-btn">Contact Us</a>
+                                <a href="contact" className="thm-btn">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -251,7 +239,7 @@ const HomePage = () => {
                             <span className="section-title__tagline">Get your flight</span>
                             <h2 className="section-title__title">Request for private flight</h2>
                         </div>
-                        <form action="https://jetly-html.vercel.app/main-html/assets/inc/sendemail.php" className="get-flight__form contact-form-validated"
+                        <form action="sendeMail.php" className="get-flight__form contact-form-validated"
                             novalidate="novalidate">
                             <div className="row">
                                 <div className="col-xl-6 col-lg-6">
@@ -300,7 +288,7 @@ const HomePage = () => {
                         <div className="testimonial-two__left">
                             <div className="section-title text-left">
                                 <span className="section-title__tagline">customers feedback</span>
-                                <h2 className="section-title__title">What they’re talking about our services</h2>
+                                <h2 className="section-title__title">What they’re saying about our services</h2>
                             </div>
                         </div>
                     </div>
@@ -334,17 +322,15 @@ const HomePage = () => {
                                 <div className="item">
                                     <div className="testimonial-two__single">
                                         <div className="testimonial-two__content">
-                                            <div className="testimonial-two__img-box">
+                                            {/* <div className="testimonial-two__img-box">
                                                 <div className="testimonial-two__img">
-                                                    <img src="assets/images/testimonial/testimonial-2-1.jpg" alt="" />
+                                                    <img src="      " alt="" />
                                                 </div>
-                                            </div>
+                                            </div> */}
                                             <div className="testimonial-two__quote">
                                                 <span className="icon-quote"></span>
                                             </div>
-                                            <p className="testimonial-two__text">There are many variations of passage of
-                                                available but the majority have suffered alteration in some form by
-                                                injected humor or randomed.</p>
+                                            <p className="testimonial-two__text">Avidan support has been helping with the supplies of aviation equipments for more than 5 years. They're reliable. </p>
                                             <div className="testimonial-two__star">
                                                 <i className="fa fa-star"></i>
                                                 <i className="fa fa-star"></i>
@@ -354,7 +340,7 @@ const HomePage = () => {
                                             </div>
                                         </div>
                                         <div className="testimonial-two__client-info">
-                                            <h4 className="testimonial-two__client-name">Bonnie tolbet</h4>
+                                            <h4 className="testimonial-two__client-name">Emmanuel Badmus</h4>
                                             <p className="testimonial-two__client-sub-title">Customer</p>
                                         </div>
                                     </div>
@@ -362,17 +348,15 @@ const HomePage = () => {
                                 <div className="item">
                                     <div className="testimonial-two__single">
                                         <div className="testimonial-two__content">
-                                            <div className="testimonial-two__img-box">
+                                            {/* <div className="testimonial-two__img-box">
                                                 <div className="testimonial-two__img">
                                                     <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="" />
                                                 </div>
-                                            </div>
+                                            </div> */}
                                             <div className="testimonial-two__quote">
                                                 <span className="icon-quote"></span>
                                             </div>
-                                            <p className="testimonial-two__text">There are many variations of passage of
-                                                available but the majority have suffered alteration in some form by
-                                                injected humor or randomed.</p>
+                                            <p className="testimonial-two__text">When it comes to Hydrology, I give it to Avidan, they're specialised in this field with experienced personnels.</p>
                                             <div className="testimonial-two__star">
                                                 <i className="fa fa-star"></i>
                                                 <i className="fa fa-star"></i>
@@ -382,7 +366,7 @@ const HomePage = () => {
                                             </div>
                                         </div>
                                         <div className="testimonial-two__client-info">
-                                            <h4 className="testimonial-two__client-name">Sarah albert</h4>
+                                            <h4 className="testimonial-two__client-name">Gbenga Williams</h4>
                                             <p className="testimonial-two__client-sub-title">Customer</p>
                                         </div>
                                     </div>
@@ -390,17 +374,15 @@ const HomePage = () => {
                                 <div className="item">
                                     <div className="testimonial-two__single">
                                         <div className="testimonial-two__content">
-                                            <div className="testimonial-two__img-box">
+                                            {/* <div className="testimonial-two__img-box">
                                                 <div className="testimonial-two__img">
                                                     <img src="assets/images/testimonial/testimonial-2-3.jpg" alt="" />
                                                 </div>
-                                            </div>
+                                            </div> */}
                                             <div className="testimonial-two__quote">
                                                 <span className="icon-quote"></span>
                                             </div>
-                                            <p className="testimonial-two__text">There are many variations of passage of
-                                                available but the majority have suffered alteration in some form by
-                                                injected humor or randomed.</p>
+                                            <p className="testimonial-two__text">We love dealing with Avidan as they have a great customer service. Keep it up.</p>
                                             <div className="testimonial-two__star">
                                                 <i className="fa fa-star"></i>
                                                 <i className="fa fa-star"></i>
@@ -410,38 +392,13 @@ const HomePage = () => {
                                             </div>
                                         </div>
                                         <div className="testimonial-two__client-info">
-                                            <h4 className="testimonial-two__client-name">Jequline eve</h4>
+                                            <h4 className="testimonial-two__client-name">Mary Jackson</h4>
                                             <p className="testimonial-two__client-sub-title">Customer</p>
                                         </div>
                                     </div>
                                 </div>
                                    <div className="item">
-                                    <div className="testimonial-two__single">
-                                        <div className="testimonial-two__content">
-                                            <div className="testimonial-two__img-box">
-                                                <div className="testimonial-two__img">
-                                                    <img src="assets/images/testimonial/testimonial-2-4.jpg" alt="" />
-                                                </div>
-                                            </div>
-                                            <div className="testimonial-two__quote">
-                                                <span className="icon-quote"></span>
-                                            </div>
-                                            <p className="testimonial-two__text">There are many variations of passage of
-                                                available but the majority have suffered alteration in some form by
-                                                injected humor or randomed.</p>
-                                            <div className="testimonial-two__star">
-                                                <i className="fa fa-star"></i>
-                                                <i className="fa fa-star"></i>
-                                                <i className="fa fa-star"></i>
-                                                <i className="fa fa-star"></i>
-                                                <i className="fa fa-star"></i>
-                                            </div>
-                                        </div>
-                                        <div className="testimonial-two__client-info">
-                                            <h4 className="testimonial-two__client-name">Aleesha brown</h4>
-                                            <p className="testimonial-two__client-sub-title">Customer</p>
-                                        </div>
-                                    </div>
+                                 
                                 </div>
                             </div>
                         </div>

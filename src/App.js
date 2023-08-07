@@ -5,6 +5,7 @@ import CharterPage from './Pages/CharterPage';
 import Concierge from './Pages/Conceirge';
 import Contact from './Pages/Contact';
 import HomePage from './Pages/Home';
+import HydrologyPage from './Pages/hydrology';
 import Interior from './Pages/InteriorPage';
 import LeasingPage from './Pages/LeasingPage';
 import Services from './Pages/Services';
@@ -38,7 +39,7 @@ const router = createBrowserRouter(
       element:<Concierge />,
     },
     {
-      path: 'interior',
+      path: 'supply',
       element:<Interior />,
     },
     {
@@ -48,6 +49,10 @@ const router = createBrowserRouter(
     {
       path: 'charters',
       element:<CharterPage/>,
+    },
+    {
+      path: 'hydrology',
+      element:<HydrologyPage/>,
     },
   ]
 )

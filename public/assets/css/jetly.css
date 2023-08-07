@@ -1468,6 +1468,7 @@ ul {
 .main-menu-two__wrapper {
   position: relative;
   display: block;
+  background-color: white;
   z-index: 1;
 }
 
@@ -1576,7 +1577,7 @@ ul {
 
 .main-menu-two .main-menu__list>li>a,
 .stricky-header.main-menu-two .main-menu__list>li>a {
-  color: var(--jetly-white);
+  color: #014c85;
 }
 
 .main-menu-two .main-menu__list>li.current>a,

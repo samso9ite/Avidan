@@ -1,10 +1,9 @@
-import Header from "../components/Header";
+
 import Footer from "../components/Footer";
 
 const AboutPage = () => {
     return ( 
         <>
-        <Header />
         <section className="page-header">
             <div className="page-header-bg" style={{backgroundImage: 'url("assets/images/avidan/slider1.jpeg")'}}>
             </div>
@@ -12,7 +11,7 @@ const AboutPage = () => {
                 <div className="page-header__inner">
                     <h2>About us</h2>
                     <ul className="thm-breadcrumb list-unstyled">
-                        <li><a href="index-2.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li><span>/</span></li>
                         <li>About</li>
                     </ul>
@@ -59,27 +58,27 @@ const AboutPage = () => {
                 <ul className="list-unstyled counter-three__list">
                     <li className="counter-three__single wow fadeInUp" data-wow-delay="100ms">
                         <div className="counter-three__count-box count-box">
-                            <h3 className="count-text" data-stop="14" data-speed="1500">00</h3>
+                            <h3 className="count-text" data-stop="14" data-speed="1500">14</h3>
                         </div>
                         <p className="counter-three__text">Years of Experience</p>
                     </li>
                     <li className="counter-three__single wow fadeInUp" data-wow-delay="200ms">
                         <div className="counter-three__count-box count-box">
-                            <h3 className="count-text" data-stop="25" data-speed="1500">00</h3>
+                            <h3 className="count-text" data-stop="25" data-speed="1500">25</h3>
                         </div>
                         <p className="counter-three__text">Experienced Team</p>
                     </li>
                     <li className="counter-three__single wow fadeInUp" data-wow-delay="300ms">
                         <div className="counter-three__count-box count-box">
-                            <h3 className="count-text" data-stop="10" data-speed="1500">00</h3>
+                            <h3 className="count-text" data-stop="10" data-speed="1500">5</h3>
                         </div>
                         <p className="counter-three__text">Partners</p>
                     </li>
                     <li className="counter-three__single wow fadeInUp" data-wow-delay="400ms">
                         <div className="counter-three__count-box count-box">
-                            <h3 className="count-text" data-stop="20" data-speed="1500">00</h3>
+                            <h3 className="count-text" data-stop="20" data-speed="1500">100+</h3>
                         </div>
-                        <p className="counter-three__text">n</p>
+                        <p className="counter-three__text">Satisfied Clients</p>
                     </li>
                 </ul>
             </div>
@@ -129,17 +128,10 @@ const AboutPage = () => {
                         <div className="item">
                             <div className="testimonial-one__single">
                                 <div className="testimonial-one__client-img-box">
-                                    <div className="testimonial-one__img">
-                                        <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="" />
-                                        <div className="testimonial-one__icon-box">
-                                            <span className="icon-quote"></span>
-                                        </div>
-                                    </div>
+                                   
                                 </div>
                                 <div className="testimonial-one__content">
-                                    <p className="testimonial-one__content-text">There are many variations of passage of
-                                        available but the majority have suffered alteration in some form by injected
-                                        humor or randomed.</p>
+                                    <p className="testimonial-one__content-text">Avidan support has been helping with the supplies of aviation equipments for more than 5 years. They're reliable.</p>
                                     <div className="testimonial-one__rating">
                                         <div className="testimonial-one__rating-icon">
                                             <i className="fa fa-star"></i>
@@ -150,7 +142,7 @@ const AboutPage = () => {
                                         </div>
                                         <div className="testimonial-one__user">
                                             <div className="testimonial-one__user-name">
-                                                <h4>Bonnie tolbet</h4>
+                                                <h4>Emmanuel Badmus</h4>
                                                 <p>Customer</p>
                                             </div>
                                         </div>
@@ -161,17 +153,10 @@ const AboutPage = () => {
                        <div className="item">
                             <div className="testimonial-one__single">
                                 <div className="testimonial-one__client-img-box">
-                                    <div className="testimonial-one__img">
-                                        <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="" />
-                                        <div className="testimonial-one__icon-box">
-                                            <span className="icon-quote"></span>
-                                        </div>
-                                    </div>
+                                  
                                 </div>
                                 <div className="testimonial-one__content">
-                                    <p className="testimonial-one__content-text">There are many variations of passage of
-                                        available but the majority have suffered alteration in some form by injected
-                                        humor or randomed.</p>
+                                    <p className="testimonial-one__content-text">TWhen it comes to Hydrology, I give it to Avidan, they're specialised in this field with experienced personnels.</p>
                                     <div className="testimonial-one__rating">
                                         <div className="testimonial-one__rating-icon">
                                             <i className="fa fa-star"></i>
@@ -182,7 +167,7 @@ const AboutPage = () => {
                                         </div>
                                         <div className="testimonial-one__user">
                                             <div className="testimonial-one__user-name">
-                                                <h4>Sarah albert</h4>
+                                                <h4>Gbenga Williams</h4>
                                                 <p>Customer</p>
                                             </div>
                                         </div>
@@ -193,17 +178,10 @@ const AboutPage = () => {
                           <div className="item">
                             <div className="testimonial-one__single">
                                 <div className="testimonial-one__client-img-box">
-                                    <div className="testimonial-one__img">
-                                        <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="" />
-                                        <div className="testimonial-one__icon-box">
-                                            <span className="icon-quote"></span>
-                                        </div>
-                                    </div>
+                                  
                                 </div>
                                 <div className="testimonial-one__content">
-                                    <p className="testimonial-one__content-text">There are many variations of passage of
-                                        available but the majority have suffered alteration in some form by injected
-                                        humor or randomed.</p>
+                                    <p className="testimonial-one__content-text">We love dealing with Avidan as they have a great customer service. Keep it up.</p>
                                     <div className="testimonial-one__rating">
                                         <div className="testimonial-one__rating-icon">
                                             <i className="fa fa-star"></i>
@@ -214,7 +192,7 @@ const AboutPage = () => {
                                         </div>
                                         <div className="testimonial-one__user">
                                             <div className="testimonial-one__user-name">
-                                                <h4>Christine eve</h4>
+                                                <h4>Mary Jackson</h4>
                                                 <p>Customer</p>
                                             </div>
                                         </div>
@@ -223,36 +201,7 @@ const AboutPage = () => {
                             </div>
                         </div>
                         <div className="item">
-                            <div className="testimonial-one__single">
-                                <div className="testimonial-one__client-img-box">
-                                    <div className="testimonial-one__img">
-                                        <img src="assets/images/testimonial/testimonial-1-4.jpg" alt="" />
-                                        <div className="testimonial-one__icon-box">
-                                            <span className="icon-quote"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="testimonial-one__content">
-                                    <p className="testimonial-one__content-text">There are many variations of passage of
-                                        available but the majority have suffered alteration in some form by injected
-                                        humor or randomed.</p>
-                                    <div className="testimonial-one__rating">
-                                        <div className="testimonial-one__rating-icon">
-                                            <i className="fa fa-star"></i>
-                                            <i className="fa fa-star"></i>
-                                            <i className="fa fa-star"></i>
-                                            <i className="fa fa-star"></i>
-                                            <i className="fa fa-star"></i>
-                                        </div>
-                                        <div className="testimonial-one__user">
-                                            <div className="testimonial-one__user-name">
-                                                <h4>Jimmy smith</h4>
-                                                <p>Customer</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -277,10 +226,10 @@ const AboutPage = () => {
                     </div>
                     <div className="video-one__button">
                         <div className="video-one__btn-one">
-                            <a href="contact.html" className="thm-btn">Book Now</a>
+                            <a href="contact" className="thm-btn">Book Now</a>
                         </div>
                         <div className="video-one__btn-two">
-                            <a href="about.html" className="thm-btn">Read More</a>
+                            <a href="about" className="thm-btn">Read More</a>
                         </div>
                     </div>      
                 </div>
@@ -295,7 +244,7 @@ const AboutPage = () => {
                         <h3>A better way to procure flight</h3>
                     </div>
                     <div className="cta-one__btn-box">
-                        <a href="contact.html" className="thm-btn cta-one__btn">Get in touch?</a>
+                        <a href="contact" className="thm-btn cta-one__btn">Get in touch?</a>
                     </div>
                 </div>
             </div>
