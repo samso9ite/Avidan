@@ -27,7 +27,7 @@ const AviationPage = () => {
                         <div className="service-details__right">
                             <div className="service-details__content-box">
                                 <div className="service-details__img">
-                                    <img src="assets/images/avidan/slider1.jpeg" alt="" />
+                                    <img src="assets/images/avidan/slider4.png" alt="" />
                                 </div>
                                 <h3 className="service-details__title">Aviation</h3>
                                 <p className="service-details__text-1">Avidan is a sales representative and maintenance partner of OEM for flight
