@@ -82,11 +82,13 @@ const AviationPage = () => {
                             </div>
 
                             <h4 className="service-details__title mt-4">Airport Automation</h4>
-                                <p className="service-details__text-1">We deliver superior customer outcomes by providing decision-makers with vital insights
-                                    they trust by providing a complete design through to manufacture and certification
-                                    capability that are the OEM for several products (LLWAS, AWOS, SADIS, ATIS/D-ATIS, SICAM,
-                                    and IWS, etc.) in Meteorology and Climatology, Road Weather, Aviation, Flood Warning,
-                                    Flow and Discharge, Water Level, Water Quality, Groundwater and Nutrient Monitoring.</p>
+                                <p className="service-details__text-1">Avidan Support Limited to develop innovative solutions which improve existing systems to perform
+safely and efficiently at the airport.
+Building Integration System is a Software solution which enables management level interfaces among
+different sub-systems in the Airport like Fire Alarm, Security &amp; Access Control System, Building
+Management, Lighting Control &amp; Monitoring System, Power Management Units, Uninterrupted power
+Supply, Emergency Central Battery System, Management Information Systems, Baggage Handling
+System, Airfield lighting and Integrated Aircraft Stand System .</p>
 
                                     <h4 className="service-details__title mt-4">Aircraft Acquisition</h4>
                                     <p className="service-details__text-1">

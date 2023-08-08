@@ -8963,7 +8963,7 @@ border: none;
 }
 
 .team__img img {
-  width: 100%;
+  width: 50%;
   transition: all 500ms ease;
 }
 

@@ -9,7 +9,8 @@ import HydrologyPage from './Pages/hydrology';
 import Interior from './Pages/InteriorPage';
 import LeasingPage from './Pages/LeasingPage';
 import Services from './Pages/Services';
-
+import ClientsPage from './Pages/ClientsPage';
+import MilitaryPage from './Pages/military';
 
 
 const router = createBrowserRouter(
@@ -53,6 +54,14 @@ const router = createBrowserRouter(
     {
       path: 'hydrology',
       element:<HydrologyPage/>,
+    },
+    {
+      path: 'clients',
+      element:<ClientsPage/>,
+    },
+    {
+      path: 'military',
+      element:<MilitaryPage/>,
     },
   ]
 )

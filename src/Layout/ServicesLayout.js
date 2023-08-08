@@ -21,8 +21,11 @@ const ServicesLayout = (props) => {
 
                                     <li><a href="charters">Charters<span
                                                 className="fas fa-angle-right"></span></a></li>
+                                    <li><a href="supply">Supply of Aviation & Maritime Equipment<span
+                                                className="fas fa-angle-right"></span></a>
+                                    </li>
 
-                                    <li><a href="interior">Interior Services<span
+                                    <li><a href="military">Military Equipment<span
                                                 className="fas fa-angle-right"></span></a></li>
 
                                     <li><a href="concierge">Concierge Services<span

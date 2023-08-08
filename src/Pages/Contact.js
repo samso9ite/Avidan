@@ -68,7 +68,7 @@ const Contact = () => {
                                 </div>
                             </div>
                             <p className="contact-page__text">
-                                <a href="tel:2348023060791">+234 802 3060 791</a>
+                                <a href="tel:2348023060791">+234 810 0515 182</a>
                                 <a href="tel:447424179683">+44 7424 179683</a>
                             </p>
                         </div>

@@ -86,7 +86,7 @@ const HomePage = () => {
                                 <div className="feature-three__icon">
                                     <span className="icon-safe-flight"></span>
                                 </div>
-                                <h4 className="feature-three__title"><a href="about">Aviation <br /> Services</a></h4>
+                                <h4 className="feature-three__title"><a href="aviation">Aviation <br /> Services</a></h4>
                                 <p className="feature-three__text">We are sales representative & maintenance partner of OEM for flight
                                     simulators in USA, Canada and Europe.</p>
                             </div>
@@ -96,7 +96,7 @@ const HomePage = () => {
                                 <div className="feature-three__icon">
                                     <span className="icon-recommend"></span>
                                 </div>
-                                <h4 className="feature-three__title"><a href="about">Hydro Meteorology
+                                <h4 className="feature-three__title"><a href="hydrology">Hydro Meteorology
                                         <br /> Station</a></h4>
                                 <p className="feature-three__text">We build Hydro-Meteorological Station used to monitor hydrological parameters of 
                                    water reservoirs. </p>
@@ -107,7 +107,7 @@ const HomePage = () => {
                                 <div className="feature-three__icon">
                                     <span className="icon-online-booking"></span>
                                 </div>
-                                <h4 className="feature-three__title"><a href="about">Aircraft <br />
+                                <h4 className="feature-three__title"><a href="leasing">Aircraft <br />
                                         Leasing</a></h4>
                                 <p className="feature-three__text"> Avidan Support ACMI/ Leasing team has considerable
                                     aircraft leasing management experience. We give our clients the best.</p>
@@ -118,7 +118,7 @@ const HomePage = () => {
                                 <div className="feature-three__icon">
                                     <span className="icon-airport-1"></span>
                                 </div>
-                                <h4 className="feature-three__title"><a href="about">Charters
+                                <h4 className="feature-three__title"><a href="charters">Charters
                                         <br /> Services</a></h4>
                                 <p className="feature-three__text">We arrange on-demand private jet charter  through a
                                     preferred network of operators, giving  the freedom to select the 

@@ -45,6 +45,7 @@ const Footer = () => {
                                         <li><a href="/">Home</a></li>
                                         <li><a href="about">About</a></li>
                                         <li><a href="services">Services</a></li>
+                                        <li><a href="clients">Our Clients</a></li>
                                         <li><a href="contact">Contact</a></li>
                                     </ul>
                                 </div>
@@ -60,7 +61,7 @@ const Footer = () => {
                                                 <span className="fas fa-phone"></span>
                                             </div>
                                             <div className="text">
-                                                <p><a href="tel:v">+2348023060791</a></p>
+                                                <p><a href="tel:+2348100515182">+234 810 0515 182</a></p>
                                                 <p><a href="tel:+447424179683">+44 7424 179683</a></p>              
 
                                             </div>
@@ -96,9 +97,8 @@ const Footer = () => {
                             </div>
                             <div className="site-footer__bottom-right">
                                 <div className="site-footer__social">
-                                    <a href="https://twitter.com/avidansupport"><i className="fab fa-twitter"></i></a>
-                                    <a href="https://facebook.com/avidansupport"><i className="fab fa-facebook"></i></a>
-                                    <a href="https://instagram.com/avidansupport"><i className="fab fa-instagram"></i></a>
+                                    <a href="https://twitter.com/avidansupportltd"><i className="fab fa-twitter"></i></a>
+                                    <a href="https://instagram.com/avidansupportltd"><i className="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -132,9 +132,8 @@ const Footer = () => {
             </ul>
             <div className="mobile-nav__top">
                 <div className="mobile-nav__social">
-                    <a href="https://twitter.com/avidansupport"><i className="fab fa-twitter"></i></a>
-                    <a href="https://facebook.com/avidansupport"><i className="fab fa-facebook"></i></a>
-                    <a href="https://instagram.com/avidansupport"><i className="fab fa-instagram"></i></a>
+                    <a href="https://twitter.com/avidansupportltd"><i className="fab fa-twitter"></i></a>
+                    <a href="https://instagram.com/avidansupportltd"><i className="fab fa-instagram"></i></a>
                 </div>
             </div>
             
