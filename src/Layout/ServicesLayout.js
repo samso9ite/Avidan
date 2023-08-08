@@ -44,7 +44,7 @@ const ServicesLayout = (props) => {
                                     <br /> services</h2>
                                 <div className="service-details__need-help-contact">
                                     <p>Call anytime</p>
-                                    <a href="tel:9298006802">+234 802 3060 791</a>
+                                    <p><a href="tel:+2348100515182"> +234 810 0515 182</a></p>  
                                 </div>
                             </div>
                         </div>

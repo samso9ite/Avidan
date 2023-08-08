@@ -61,8 +61,9 @@ const Footer = () => {
                                                 <span className="fas fa-phone"></span>
                                             </div>
                                             <div className="text">
-                                                <p><a href="tel:+2348100515182">+234 810 0515 182</a></p>
-                                                <p><a href="tel:+447424179683">+44 7424 179683</a></p>              
+                                                <p><a href="tel:+2348100515182"> +234 810 0515 182</a></p>
+                                                <p><a href="tel:+2348153410870"> +234 815 3410 870</a></p>
+                                                <p><a href="tel:+447424179683">  +44 7424 179683</a></p>              
 
                                             </div>
                                         </li>
