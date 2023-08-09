@@ -31,7 +31,7 @@ const Interior = () => {
                                 <h3 class="service-details__title">Supply of Aviation and Maritime Equipment</h3>
                                 <p class="service-details__text-1">Avidan is a sales representative and maintenance partner of OEM for flight &amp;
                                     Maritime simulations in the Europe, Canada and United States.<br />
-                                    All the products are representing are compliant with the most widespread standards in aviation, such as those of the EASA, FAA, and TC (Transport Canada)</p>
+                                    All the products we are representing are compliant with the most widespread standards in aviation, such as those of the EASA, FAA, and TC (Transport Canada)</p>
                                 
                         </div>
                     </div>

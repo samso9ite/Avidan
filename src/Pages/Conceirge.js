@@ -30,13 +30,12 @@ const Concierge = () => {
                             </div>
                             <h3 class="service-details__title">Concierge Services</h3>
                             <p class="service-details__text-1">With superior hospitality and service,
-                                Avidan Support is committed to
-                                providing you with dedicated
+                                Avidan Support is committed in
+                                providing you with a dedicated
                                 professional support to make your stay
-                                more enjoyable. From arrival to
-                                departure we pledge the superior service
-                                you expect and the extra comforts that
-                                you might not.<br /></p>
+                                more enjoyable.   Starting from your arrival until your departure, 
+                                we commit to delivering the exceptional service you anticipate,
+                                along with additional comforts you might not even expect.<br /></p>
                             <div class="service-details__quote">
                                 <p class="service-details__quote-text">Airport co-ordination <br />
                                     • Over flight and Landing Permits <br />
@@ -44,10 +43,12 @@ const Concierge = () => {
                                     • Fuel supply<br />
                                     • Crew Accommodation<br />
                                     • On-Site Rental Cars<br />
-                                    • BMW Crew Car<br />
-                                    • Phone call to us is all you need to ensure
+                                    • Crew Car<br />
+                                    <br />
+                                    Phone call to us is all you need to ensure
                                     that your aircraft movements are
-                                    professionally set-up and supported.</p>
+                                    professionally set-up and supported. 
+                                </p>
                             </div>
                     
                     </div>

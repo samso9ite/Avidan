@@ -26,7 +26,7 @@ const LeasingPage = () => {
             <div class="service-details__right">
                             <div class="service-details__content-box">
                                 <div class="service-details__img">
-                                    <img src="assets/images/avidan/slider4.jpeg" alt="" />
+                                    <img src="assets/images/avidan/slider4.png" alt="" />
                                 </div>
                                 <h3 class="service-details__title">Aircraft Leasing</h3>
                                 <p class="service-details__text-1">The Avidan Support ACMI/Aircraft Leasing team has considerable
@@ -35,29 +35,17 @@ const LeasingPage = () => {
                                     <br /><br />
                                     
                                     As a broker, Avidan Support can provide aircraft anywhere in the world
-                                    to meet short, medium and long term requirements. There are a
+                                    to meet short, medium and long term requirements.
+                                   
+                                </p>
+                                <div class="service-details__quote">
+                                    <p class="service-details__quote-text"> There are a
                                     number of options available to you which include:
                                     <br />
                                     
                                     • Dry leasing (no crew)<br />
                                     • Damp leasing (flight deck crew)<br />
-                                    • Wet leasing (full or partial compliment of cabin crew)<br />
-                                    Rent aircraft, provides an
-                                    • aircraft without crew,
-                                    • ground staff, fuel, or
-                                    • general flight
-                                    • expenses etc. You have operational
-                                    • control of the flights.
-                                    • Keep the aircraft with you on trips.
-                                </p>
-                                <div class="service-details__quote">
-                                    <p class="service-details__quote-text">Rent aircraft, provides an
-                                     aircraft without crew,
-                                     ground staff, fuel, or
-                                     general flight
-                                     expenses etc. You have operational
-                                     control of the flights.
-                                     Keep the aircraft with you on trips.</p>
+                                    • Wet leasing (full or partial compliment of cabin crew)<br /></p>
                                 </div>
                               
                           

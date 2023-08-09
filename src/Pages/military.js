@@ -29,11 +29,7 @@ const MilitaryPage = () => {
                             <img src="assets/images/avidan/military.jpeg" alt="" />
                         </div>
                         <h3 class="service-details__title">Military Equipment</h3>
-                        <p class="service-details__text-1">We are professional supplier of complete series of military products and Police equipment for more than
-                            3 years. As a registered Contractor with Nigeria Army, Nigeria Airforce, Nigeria Navy and Nigeria
-                            Defence HQ, among other equipment are, military garments, backpack, vest, footwear, bulletproof
-                            items, parachute, military flight and maritime simulations and so on.
-                            Our main business is working with government agencies, by bidding the tender or direct purchasing.
+                        <p class="service-details__text-1">We are professional supplier of complete series of Military products and Police equipment for over three years, we have been a proficient provider of an extensive range of military products and police equipment. Being an authorized contractor for the Nigerian Army, Nigerian Airforce, Nigerian Navy, and Nigeria Defence HQ, we offer an array of equipment including military apparel, backpacks, vests, footwear, bulletproof items, parachutes, military flight and maritime simulations, and more.    
                         </p>
                         
                 </div>

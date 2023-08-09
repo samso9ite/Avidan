@@ -36,13 +36,12 @@ const AboutPage = () => {
                             </div>
                        
                             <p className="about-four__text-2">
-                                Avidan Support Limited was established in 2009in Nigeria and provides services in the
+                                Avidan Support Limited was established in 2009 in Nigeria and provides services in the
                                 Aviation, Water, Hydro-Meteorological stations and Maritime industry, by giving
                                 customers excellent products and services that adds value to their performance and
                                 success. Our key focus is primarily on day-to-day supplies of general equipment for
-                                these sectors as well as their management and maintenance. In addition, Avidan
-                                brokerages deal and lease of aircraft, vessels, private jet hire & helicopter, and the
-                                management and maintenance of the fleets. Additional services include installation
+                                these sectors as well as their management and maintenance. In addition, Avidan brokerages specialize in the negotiation and facilitation of aircraft and vessel transactions, encompassing both sales and leases. Our services extend to arranging private jet rentals
+                                 and helicopter charters, as well as overseeing the comprehensive fleet management and maintenance operations.. Additional services include installation
                                 and maintenance of aeronautical (weather) and air navigation communication systems.
                                 Our solutions are specifically tailored to our customer’s business model.
                             </p>

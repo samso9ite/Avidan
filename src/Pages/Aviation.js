@@ -27,13 +27,13 @@ const AviationPage = () => {
                         <div className="service-details__right">
                             <div className="service-details__content-box">
                                 <div className="service-details__img">
-                                    <img src="assets/images/avidan/slider4.png" alt="" />
+                                    <img src="assets/images/avidan/slider1.jpeg" alt="" />
                                 </div>
                                 <h3 className="service-details__title">Aviation</h3>
                                 <p className="service-details__text-1">Avidan is a sales representative and maintenance partner of OEM for flight
-                                    simulators inthe USA, Canada and Europe. Are you looking for a partner to
+                                    simulators in USA, Canada and Europe. Are you looking for a partner to
                                     procure flight and marine simulators, and to help yourproject take-off? No
-                                    need to look no further.<br /></p>
+                                    need to look further.<br /></p>
                                 <div className="service-details__quote">
                                     <p className="service-details__quote-text">Whether you require simple components or more complex, multi-component
                                         spare parts, and deliver high-quality spare parts on demand and your location.</p>
@@ -48,7 +48,7 @@ const AviationPage = () => {
                                         </div>
                                         <div className="accrodion-content">
                                             <div className="inner">
-                                                <p>Our staff has over 5 combined years of
+                                                <p>Our staff has over 10 combined years of
                                                     experience selling aircraft parts. Any question or concernyou might have can be
                                                     easily managed by our friendly and knowledgeable team.</p>
                                             </div>
@@ -82,13 +82,11 @@ const AviationPage = () => {
                             </div>
 
                             <h4 className="service-details__title mt-4">Airport Automation</h4>
-                                <p className="service-details__text-1">Avidan Support Limited to develop innovative solutions which improve existing systems to perform
-safely and efficiently at the airport.
-Building Integration System is a Software solution which enables management level interfaces among
-different sub-systems in the Airport like Fire Alarm, Security &amp; Access Control System, Building
-Management, Lighting Control &amp; Monitoring System, Power Management Units, Uninterrupted power
-Supply, Emergency Central Battery System, Management Information Systems, Baggage Handling
-System, Airfield lighting and Integrated Aircraft Stand System .</p>
+                                <p className="service-details__text-1">Avidan Support Limited can help to develop innovative solutions which improve existing systems to perform safely and efficiently at the airport.
+                                 Building Integration System is a Software solution which enables management level interface with different sub-systems in the Airport like Fire Alarm, Security & Access Control System, 
+                                 Building Management, Lighting Control & Monitoring System, Power Management Units, Uninterrupted power Supply, Emergency Central Battery System, Management Information Systems, 
+                                 Baggage Handling System, Airfield lighting and Integrated Aircraft Stand System.
+</p>
 
                                     <h4 className="service-details__title mt-4">Aircraft Acquisition</h4>
                                     <p className="service-details__text-1">

@@ -29,17 +29,9 @@ const HydrologyPage = () => {
                             <img src="assets/images/avidan/hydroMet.png" alt="" />
                         </div>
                         <h3 class="service-details__title">Meteorology/Hydrology</h3>
-                        <p class="service-details__text-1">We sell, install, repair, maintain and inspect meteorological and various observation equipment,
-                        and Observation, forecasting, processing, distribution, provision and explanation of weather and
-                        disaster prevention information by provides meteorological, hydrological, and oceanographic
-                        services in support.
-                        
+                        <p class="service-details__text-1">Our offerings encompass the sale, installation, repair, and maintenance of a wide range of meteorological and observation equipment. Additionally, we conduct thorough inspections of these instruments. We specialize in the entire spectrum of weather-related activities, including observation, forecasting, data processing, distribution, and the provision of comprehensive weather and disaster prevention information. Our services revolve around meteorological, hydrological, and oceanographic expertise, all aimed at providing robust support in these domains.
                         <br /><br />
-                        We deliver superior customer outcomes by providing decision-makers with vital insights they trust by
-                        providing a complete design through to manufacture and certification capability that are the OEM for
-                        several products (LLWAS, AWOS, SADIS, ATIS/D-ATIS, SICAM, and IWS, etc.) in Meteorology and
-                        Climatology, Road Weather, Aviation, Flood Warning, Flow and Discharge, Water Level, Water Quality,
-                        Groundwater and Nutrient Monitoring.
+                        We achieve exceptional customer results by furnishing essential, reliable insights to decision-makers. Our comprehensive services encompass the entire process from design and manufacturing to certification. As the original equipment manufacturer (OEM) for numerous products such as LLWAS, AWOS, SADIS, ATIS/D-ATIS, SICAM, and IWS, among others, we play a pivotal role in fields such as Meteorology and Climatology, Road Weather, Aviation, Flood Warning, Flow and Discharge, Water Level, Water Quality, Groundwater, and Nutrient Monitoring.
                         <ul className="about-two__right-points list-unstyled">
                         <li>
                             <div className="icon">

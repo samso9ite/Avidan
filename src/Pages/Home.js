@@ -42,11 +42,9 @@ const HomePage = () => {
                                     Aviation, Water, Hydro-Meteorological stations and Maritime industry, by giving
                                     customers excellent products and services that adds value to their performance and
                                     success. Our key focus is primarily on day-to-day supplies of general equipment for
-                                    these sectors as well as their management and maintenance. In addition, Avidan
-                                    brokerages deal and lease of aircraft, vessels, private jet hire & helicopter, and the
-                                    management and maintenance of the fleets.</p>
+                                    these sectors as well as their management and maintenance. In addition, Avidan brokerages specialize in the negotiation and facilitation of aircraft and vessel transactions, encompassing both sales and leases. Our services extend to arranging private jet rentals and helicopter charters, as well as overseeing the comprehensive fleet management and maintenance operations.</p>
                             </div>
-                            <ul className="about-two__right-points list-unstyled">
+                            <ul className="about-two__right-points list-unstyled">      
                                 <li>
                                     <div className="icon">
                                         <span className="icon-tick"></span>
@@ -87,7 +85,7 @@ const HomePage = () => {
                                     <span className="icon-safe-flight"></span>
                                 </div>
                                 <h4 className="feature-three__title"><a href="aviation">Aviation <br /> Services</a></h4>
-                                <p className="feature-three__text">We are sales representative & maintenance partner of OEM for flight
+                                <p className="feature-three__text">We are a sales representative & maintenance partner of OEM for flight
                                     simulators in USA, Canada and Europe.</p>
                             </div>
                         </div>
@@ -176,7 +174,7 @@ const HomePage = () => {
                                 <span className="section-title__tagline">Supply & Maintenance</span>
                                 <h2 className="section-title__title">Supply of aviation and maritime equipment</h2>
                                 <p>Avidan is a sales representative and maintenance partner of OEM for flight &amp; 
-                                                Maritime simulations in the Europe, Canada and United States.</p>
+                                                Maritime simulations in Europe, Canada and United States.</p>
                             </div> 
                             <div className="accrodion-grp" data-grp-name="faq-one-accrodion">
                             <Accordion>
@@ -184,7 +182,7 @@ const HomePage = () => {
                                     <div className="accrodion-content">
                                         <div className="inner">
                                         <p>
-                                            Our staff has over 5 combined years of
+                                            Our staff has over 10 combined years of
                                                 experience selling aircraft parts. Any question or concernyou might have can be
                                                 easily managed by our friendly and knowledgeable team.
                                             </p>

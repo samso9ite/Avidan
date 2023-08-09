@@ -55,16 +55,11 @@ const CharterPage = () => {
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>Most airlines operate in a hub and spoke
-                                                    system, which means you will almost always
-                                                    have to transit through a major airport to reach
-                                                    your final destination. By chartering a private
-                                                    jet you are able to fly directly to the Greek
-                                                    island of your choice or to the local airport by
-                                                    your favourite skiing location.
-                                                    You choose the departure time ensuring a stress
-                                                    free vacation. Also, with generous baggage
-                                                    allowances packing becomes that much easier.</p>
+                                                <p>The majority of airlines function within a hub and spoke framework, necessitating layovers at
+                                                     major airports before reaching your ultimate stop. However, by arranging a private jet charter, 
+                                                     you gain the advantage of flying straight to your desired Greek island or the local airport near your preferred skiing spot.
+                                                      You retain the liberty to select your departure time,
+                                                     guaranteeing a tranquil vacation experience. Moreover, with ample baggage allowances, the task of packing becomes notably simpler.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -74,17 +69,9 @@ const CharterPage = () => {
                                         </div>
                                         <div class="accrodion-content">
                                             <div class="inner">
-                                                <p>While travelling in the comfort of a luxury jet can
-                                                    save you valuable time and stress, it is also a private
-                                                    place to do business. Even when travelling in First
-                                                    Class on leading airlines you are not safe from prying
-                                                    ears.
-                                                    Also, scheduled airlines are exactly as the name
-                                                    suggests – scheduled. By travelling with a private jet
-                                                    you can set your own agenda and accomplish more in
-                                                    a working day. When you are done with your
-                                                    meeting, you can simply jump on the jet and head
-                                                    towards your next destination.</p>
+                                                <p>Opting for the convenience of luxurious jet travel not only preserves your time and reduces stress but also offers a 
+                                                    secluded environment for conducting business affairs. Even if you choose First Class on reputable commercial airlines, your conversations may not be entirely private. Moreover, commercial flights adhere strictly to schedules, as their name implies. In contrast, selecting a private jet empowers you to shape your own timetable, thus enabling greater 
+                                                    productivity within a single workday. Once your meeting concludes, transitioning to the jet allows you to swiftly embark on your next destination.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -95,7 +82,7 @@ const CharterPage = () => {
                                         <div class="accrodion-content">
                                             <div class="inner">
                                                 <p>There are a few cases where even an overnight
-                                                    delivery from DHL or FedEx is not fast enough. If
+                                                    delivery from traditional courier is not fast enough. If
                                                     you need anything from a single document or a
                                                     number of boxes delivered immediately, we can do so
                                                     at a moment’s notice.</p>
