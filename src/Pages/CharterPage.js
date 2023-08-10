@@ -83,7 +83,7 @@ const CharterPage = () => {
                                             <div class="inner">
                                                 <p>There are a few cases where even an overnight
                                                     delivery from traditional courier is not fast enough. If
-                                                    you need anything from a single document or a
+                                                   you need anything from a single document or a
                                                     number of boxes delivered immediately, we can do so
                                                     at a moment’s notice.</p>
                                             </div>

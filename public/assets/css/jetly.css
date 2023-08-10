@@ -8956,7 +8956,7 @@ border: none;
   position: relative;
   display: block;
   overflow: hidden;
-  background-color: var(--jetly-black);
+  background-color: white;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
   z-index: 1;

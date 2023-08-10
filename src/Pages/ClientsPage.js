@@ -28,7 +28,7 @@ const ClientsPage = () => {
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team__single">
                             <div class="team__single-inner">
-                                <div class="team__img">
+                                <div class="team__img" style={{backgroundColor:'white'}}>
                                     <img src="assets/images/avidan/clients/fma.png" alt="" />
                                 </div>
                                 <div class="team__content">
@@ -40,7 +40,7 @@ const ClientsPage = () => {
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team__single">
                             <div class="team__single-inner">
-                                <div class="team__img">
+                                <div class="team__img" style={{backgroundColor:'white'}}>
                                     <img src="assets/images/avidan/clients/faan.png" alt="" />
                                 </div>
                                 <div class="team__content">
@@ -53,7 +53,7 @@ const ClientsPage = () => {
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team__single">
                             <div class="team__single-inner">
-                                <div class="team__img">
+                                <div class="team__img" style={{backgroundColor:'white'}}>
                                     <img src="assets/images/avidan/clients/NAMA.jpeg" alt="" />
                                 </div>
                                 <div class="team__content">
@@ -66,7 +66,7 @@ const ClientsPage = () => {
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team__single">
                             <div class="team__single-inner">
-                                <div class="team__img">
+                                <div class="team__img" style={{backgroundColor:'white'}}>
                                     <img src="assets/images/avidan/clients/ncat.png" alt="" />
                                 </div>
                                 <div class="team__content">
@@ -79,8 +79,8 @@ const ClientsPage = () => {
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team__single">
                             <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/avidan/clients/FMENV.png" alt="" />
+                                <div class="team__img" style={{backgroundColor:'white'}}>
+                                    <img src="assets/images/avidan/clients/FEM.jpeg" alt="" />
                                 </div>
                                 <div class="team__content">
                                     <h4 class="team__name"><a href="">Federal Ministry of Enviroment </a></h4>
@@ -92,7 +92,7 @@ const ClientsPage = () => {
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team__single">
                             <div class="team__single-inner">
-                                <div class="team__img">
+                                <div class="team__img" style={{backgroundColor:'white'}}>
                                     <img src="assets/images/avidan/clients/niwa.jpeg" alt="" />
                                 </div>
                                 <div class="team__content">
@@ -105,7 +105,7 @@ const ClientsPage = () => {
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team__single">
                             <div class="team__single-inner">
-                                <div class="team__img">
+                                <div class="team__img" style={{backgroundColor:'white'}}>
                                     <img src="assets/images/avidan/clients/nihsa.jpeg" alt="" />
                                 </div>
                                 <div class="team__content">
@@ -118,7 +118,7 @@ const ClientsPage = () => {
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team__single">
                             <div class="team__single-inner">
-                                <div class="team__img">
+                                <div class="team__img" style={{backgroundColor:'white'}}>
                                     <img src="assets/images/avidan/clients/lwrb.jpeg" alt="" />
                                 </div>
                                 <div class="team__content">
@@ -131,7 +131,7 @@ const ClientsPage = () => {
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team__single">
                             <div class="team__single-inner">
-                                <div class="team__img">
+                                <div class="team__img" style={{backgroundColor:'white'}}>
                                     <img src="assets/images/avidan/clients/NSDC.png" alt="" />
                                 </div>
                                 <div class="team__content">
